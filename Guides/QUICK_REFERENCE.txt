@@ -1,0 +1,173 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║               LONDON WHOLESALE SCRAPER - QUICK REFERENCE                      ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ SUPER QUICK START (2 COMMANDS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WINDOWS:
+--------
+1. Open Command Prompt in scraper folder
+2. Type: RUN_SCRAPER.bat
+3. Press ENTER
+4. Done!
+
+
+MAC:
+----
+1. Open Terminal in scraper folder
+2. Type: chmod +x run_scraper.sh
+3. Type: ./run_scraper.sh
+4. Done!
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ MANUAL START (IF ABOVE DOESN'T WORK)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WINDOWS:
+--------
+1. pip install -r requirements.txt
+2. python london_wholesale_selenium_scraper.py
+
+
+MAC:
+----
+1. pip3 install -r requirements.txt
+2. python3 london_wholesale_selenium_scraper.py
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ FILES INCLUDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ london_wholesale_selenium_scraper.py  → Main scraper script
+✅ requirements.txt                      → Python packages needed
+✅ INSTALLATION_GUIDE.txt                → Detailed setup instructions
+✅ QUICK_REFERENCE.txt                   → This file
+✅ RUN_SCRAPER.bat                       → Windows quick start
+✅ run_scraper.sh                        → Mac quick start
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ WHAT IT DOES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Opens Chrome browser automatically
+2. Goes to londonwholesales.com
+3. Clicks through all 60+ categories
+4. Extracts every product:
+   - Product ID
+   - Product Name
+   - Pack Qty
+   - Pack Price
+   - Unit Price (calculated)
+   - Category
+   - Image URL
+
+5. Saves to Excel: London_Wholesale_Complete.xlsx
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ TIMING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FULL SCRAPE (All categories):    1-3 hours
+TEST MODE (5 categories):         5-15 minutes
+EXPECTED PRODUCTS:                2,000-5,000+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ TEST MODE (RECOMMENDED FIRST)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before running full scrape:
+
+1. Open london_wholesale_selenium_scraper.py in text editor
+2. Find line: scraper.run(max_categories=None)
+3. Change to: scraper.run(max_categories=5)
+4. Save and run
+5. Verify Excel file looks good
+6. Change back to max_categories=None for full scrape
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ STOP SCRAPING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Press: Ctrl + C
+
+Progress will be saved!
+Excel file created with products collected so far.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ COMMON ISSUES & FIXES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ISSUE: "python not recognized"
+FIX: Reinstall Python, check "Add to PATH"
+
+
+ISSUE: ChromeDriver error
+FIX: pip install webdriver-manager
+
+
+ISSUE: Browser opens but nothing happens
+FIX: Check internet connection, wait longer
+
+
+ISSUE: Excel file not found
+FIX: Check same folder as scraper script
+
+
+ISSUE: Want to hide browser window
+FIX: Edit script, change headless=False to headless=True
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ OUTPUT FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Filename: London_Wholesale_Complete.xlsx
+Location: Same folder as scraper
+Columns:
+  - Product_ID
+  - Product_Name
+  - Category
+  - Pack_Qty
+  - Pack_Price
+  - Unit_Price
+  - Image_URL
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NEXT STEPS AFTER SCRAPING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. ✅ Open Excel file
+2. ✅ Import into Business Tracker
+3. ✅ Use Validation Checklist on products
+4. ✅ Search products on Amazon.co.uk
+5. ✅ Calculate profitability
+6. ✅ Score each product
+7. ✅ Identify top 20 to buy
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Full instructions: INSTALLATION_GUIDE.txt
+Troubleshooting: See INSTALLATION_GUIDE.txt section 5
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Keep this file handy for quick reference! 📋
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,348 @@
+═══════════════════════════════════════════════════════════════════════════════
+                    LONDON WHOLESALE SCRAPER - SETUP GUIDE
+═══════════════════════════════════════════════════════════════════════════════
+
+TABLE OF CONTENTS:
+-----------------
+1. What You Need (Prerequisites)
+2. Installation Steps (Windows)
+3. Installation Steps (Mac)
+4. How to Run the Scraper
+5. Troubleshooting
+6. FAQ
+
+
+═══════════════════════════════════════════════════════════════════════════════
+1. WHAT YOU NEED (PREREQUISITES)
+═══════════════════════════════════════════════════════════════════════════════
+
+Before you start, make sure you have:
+
+✅ Windows 10/11 or Mac OS
+✅ Google Chrome browser (latest version)
+✅ Internet connection
+✅ 2-3 hours of computer time (scraper runs in background)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+2. INSTALLATION STEPS (WINDOWS)
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Install Python
+-----------------------
+1. Go to: https://www.python.org/downloads/
+2. Click "Download Python 3.12.x" (latest version)
+3. Run the installer
+4. ⚠️ IMPORTANT: Check "Add Python to PATH" during installation
+5. Click "Install Now"
+6. Wait for installation to complete
+7. Click "Close"
+
+VERIFY: Open Command Prompt (search "cmd" in Start menu) and type:
+   python --version
+   
+   Should show: Python 3.12.x
+
+
+STEP 2: Install Chrome (if not already installed)
+--------------------------------------------------
+1. Go to: https://www.google.com/chrome/
+2. Download and install Chrome
+3. Open Chrome once to verify it works
+
+
+STEP 3: Install ChromeDriver
+-----------------------------
+OPTION A - EASY WAY (Recommended):
+
+1. Open Command Prompt as Administrator (right-click, "Run as administrator")
+2. Type: pip install webdriver-manager
+3. Press Enter and wait for installation
+
+The scraper will automatically download the correct ChromeDriver when you run it!
+
+
+OPTION B - MANUAL WAY:
+
+1. Check your Chrome version:
+   - Open Chrome
+   - Click three dots (⋮) → Help → About Google Chrome
+   - Note the version number (e.g., 120.0.6099.109)
+
+2. Download matching ChromeDriver:
+   - Go to: https://googlechromelabs.github.io/chrome-for-testing/
+   - Download ChromeDriver for your Chrome version (Windows)
+   - Extract the ZIP file
+
+3. Add to PATH:
+   - Move chromedriver.exe to C:\Windows\System32\
+   - OR add the folder location to your system PATH
+
+
+STEP 4: Install Required Python Packages
+-----------------------------------------
+1. Open Command Prompt
+2. Navigate to the folder with the scraper:
+   cd C:\Users\YourName\Downloads\scraper
+   
+3. Type: pip install selenium pandas openpyxl webdriver-manager
+4. Press Enter and wait for installation
+
+
+STEP 5: Test Installation
+--------------------------
+1. In Command Prompt, type: python
+2. Then type: import selenium
+3. If no error, you're ready!
+4. Type: exit() to quit Python
+
+
+═══════════════════════════════════════════════════════════════════════════════
+3. INSTALLATION STEPS (MAC)
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Install Python
+-----------------------
+1. Open Terminal (Cmd + Space, type "Terminal")
+2. Install Homebrew (if not installed):
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+3. Install Python:
+   brew install python
+
+VERIFY: Type in Terminal:
+   python3 --version
+   
+   Should show: Python 3.x.x
+
+
+STEP 2: Install Chrome (if not already installed)
+--------------------------------------------------
+1. Go to: https://www.google.com/chrome/
+2. Download and install Chrome for Mac
+
+
+STEP 3: Install ChromeDriver
+-----------------------------
+OPTION A - EASY WAY (Recommended):
+
+In Terminal, type:
+   pip3 install webdriver-manager
+
+The scraper will automatically handle ChromeDriver!
+
+
+OPTION B - MANUAL WAY:
+
+In Terminal, type:
+   brew install chromedriver
+
+
+STEP 4: Install Required Python Packages
+-----------------------------------------
+In Terminal, type:
+   pip3 install selenium pandas openpyxl webdriver-manager
+
+
+STEP 5: Test Installation
+--------------------------
+In Terminal:
+1. Type: python3
+2. Type: import selenium
+3. If no error, you're ready!
+4. Type: exit()
+
+
+═══════════════════════════════════════════════════════════════════════════════
+4. HOW TO RUN THE SCRAPER
+═══════════════════════════════════════════════════════════════════════════════
+
+QUICK START:
+------------
+
+WINDOWS:
+1. Open Command Prompt
+2. Navigate to scraper folder:
+   cd C:\Users\YourName\Downloads\scraper
+   
+3. Run the scraper:
+   python london_wholesale_selenium_scraper.py
+
+4. Press ENTER when prompted
+5. Chrome will open automatically
+6. Watch it work! (Don't close the browser)
+7. Wait for completion (1-3 hours)
+8. Excel file will be saved in the same folder
+
+
+MAC:
+1. Open Terminal
+2. Navigate to scraper folder:
+   cd /Users/YourName/Downloads/scraper
+   
+3. Run the scraper:
+   python3 london_wholesale_selenium_scraper.py
+
+4. Press ENTER when prompted
+5. Chrome will open automatically
+6. Watch it work!
+7. Excel file saved when complete
+
+
+WHAT YOU'LL SEE:
+----------------
+
+The scraper will:
+1. Open Chrome browser
+2. Go to londonwholesales.com
+3. Click through categories automatically
+4. Extract products from each page
+5. Save progress as it goes
+6. Create Excel file when done
+
+
+EXPECTED TIMELINE:
+------------------
+
+- Categories: 60+
+- Products: 2,000-5,000+ (estimated)
+- Time: 1-3 hours depending on internet speed
+- File size: 1-5 MB Excel file
+
+
+═══════════════════════════════════════════════════════════════════════════════
+5. TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════════════════════
+
+PROBLEM: "python is not recognized"
+SOLUTION: 
+   - Python not installed OR not in PATH
+   - Reinstall Python, check "Add Python to PATH"
+   - OR use "python3" instead of "python" (Mac)
+
+
+PROBLEM: "chromedriver not found"
+SOLUTION:
+   - Install webdriver-manager: pip install webdriver-manager
+   - OR manually download ChromeDriver (see Step 3)
+
+
+PROBLEM: "Chrome version mismatch"
+SOLUTION:
+   - Update Chrome to latest version
+   - Use webdriver-manager (it auto-matches versions)
+
+
+PROBLEM: Browser opens but nothing happens
+SOLUTION:
+   - Internet connection issue
+   - Wait longer (page might be loading)
+   - Check if website is accessible in regular browser
+
+
+PROBLEM: Scraper crashes partway through
+SOLUTION:
+   - Check internet connection
+   - Restart scraper (it will save progress)
+   - Press Ctrl+C to stop, it will save what it collected
+
+
+PROBLEM: "Permission denied" error
+SOLUTION (Windows):
+   - Run Command Prompt as Administrator
+   
+SOLUTION (Mac):
+   - Use sudo: sudo python3 london_wholesale_selenium_scraper.py
+
+
+PROBLEM: Excel file not found
+SOLUTION:
+   - Check the scraper folder
+   - File name: London_Wholesale_Complete.xlsx
+   - If not there, scraper might have crashed (check console)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+6. FAQ
+═══════════════════════════════════════════════════════════════════════════════
+
+Q: Can I use the computer while scraper runs?
+A: Yes, but don't close the browser window. You can minimize it.
+
+Q: How do I know it's working?
+A: You'll see progress in the terminal (category names, product counts)
+
+Q: Can I stop and resume later?
+A: Press Ctrl+C to stop. Progress is saved. Restart to continue from beginning.
+
+Q: How much internet data will this use?
+A: Approximately 50-200 MB (product images)
+
+Q: Will this get me banned from the website?
+A: No, the scraper is polite (1-3 second delays between requests)
+
+Q: Can I run it overnight?
+A: Yes! Just make sure your computer doesn't go to sleep.
+
+Q: What if I only want specific categories?
+A: Edit the script, set max_categories=5 for testing
+
+Q: The browser window is distracting, can I hide it?
+A: Yes! Edit script, change headless=False to headless=True
+
+Q: How do I run it again later?
+A: Just run the same command. It will scrape fresh data.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+TESTING MODE (RECOMMENDED FIRST TIME)
+═══════════════════════════════════════════════════════════════════════════════
+
+Before scraping ALL products (1-3 hours), test with 5 categories:
+
+1. Open london_wholesale_selenium_scraper.py in a text editor
+2. Find this line near the bottom:
+   scraper.run(max_categories=None)
+   
+3. Change to:
+   scraper.run(max_categories=5)
+   
+4. Save and run the scraper
+5. Should complete in 5-15 minutes
+6. Verify Excel file looks good
+7. Then change back to max_categories=None for full scrape
+
+
+═══════════════════════════════════════════════════════════════════════════════
+NEXT STEPS AFTER SCRAPING
+═══════════════════════════════════════════════════════════════════════════════
+
+Once you have the Excel file:
+
+1. ✅ Use the Business Tracker to import products
+2. ✅ Use Validation Checklist to score products
+3. ✅ Search products on Amazon.co.uk
+4. ✅ Calculate profitability
+5. ✅ Identify top 20 products to buy
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SUPPORT
+═══════════════════════════════════════════════════════════════════════════════
+
+If you encounter issues:
+
+1. Check the Troubleshooting section above
+2. Google the exact error message
+3. Check if Chrome and Python are up to date
+4. Try running in test mode first (5 categories)
+
+Common error messages and solutions available at:
+https://selenium-python.readthedocs.io/
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Good luck with your scraping! 🚀
+
+═══════════════════════════════════════════════════════════════════════════════

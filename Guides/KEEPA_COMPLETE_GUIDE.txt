@@ -1,0 +1,720 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║                 KEEPA - COMPLETE BEGINNER'S GUIDE                             ║
+║                   Step-by-Step Instructions                                   ║
+║                      100% FREE TOOL!                                          ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 1: INSTALLING KEEPA (2 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Go to Chrome Web Store
+-------------------------------
+
+1. Open Chrome browser
+
+2. Go to: chrome.google.com/webstore
+
+3. In search box, type: "Keepa"
+
+4. Press Enter
+
+
+STEP 2: Find Keepa Extension
+-----------------------------
+
+You'll see search results:
+
+Look for:
+   "Keepa - Amazon Price Tracker"
+   
+   Check it's the official one:
+   • By: Keepa.com
+   • Lots of reviews (thousands)
+   • High rating (4+ stars)
+
+
+STEP 3: Install Extension
+--------------------------
+
+1. Click on "Keepa - Amazon Price Tracker"
+
+2. You'll see the extension page
+
+3. Click "Add to Chrome" button
+
+4. Popup appears: "Add Keepa?"
+   → Click "Add extension"
+
+5. Extension installs (5 seconds)
+
+6. Confirmation: "Keepa has been added to Chrome"
+
+
+STEP 4: That's It!
+------------------
+
+No signup needed!
+No login needed!
+No payment needed!
+
+Keepa is 100% FREE and works immediately!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 2: TESTING KEEPA (2 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Go to Any Amazon Product
+---------------------------------
+
+1. Open new tab
+
+2. Go to: amazon.co.uk
+
+3. Search for any product (example: "bluetooth speaker")
+
+4. Click on any product
+
+
+STEP 2: Keepa Graphs Appear
+----------------------------
+
+Scroll down the Amazon product page.
+
+You'll see NEW GRAPHS that weren't there before!
+
+These are Keepa graphs - they appear AUTOMATICALLY on every Amazon page!
+
+The graphs show up in a section that looks like:
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  KEEPA - Amazon Price History                                   │
+│                                                                 │
+│  ┌───────────────────────────────────────────────────────────┐ │
+│  │                                                           │ │
+│  │  £25 ┤                 Orange Line (Price)               │ │
+│  │      │     ────────────────────────────                  │ │
+│  │  £20 ┤                                                   │ │
+│  │      │                                                   │ │
+│  │  £15 ┤                                                   │ │
+│  │      │  ▁▁▁▁▁    ▁▁▁    ▁▁▁  Green Line (Sales Rank)    │ │
+│  │   0  └────────────────────────────────────────────────  │ │
+│  │       Jan    Feb    Mar    Apr    May    Jun            │ │
+│  │                                                           │ │
+│  └───────────────────────────────────────────────────────────┘ │
+│                                                                 │
+│  Time Range: [1 month] [3 months] [6 months] [1 year] [All]   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+
+STEP 3: Success!
+----------------
+
+If you see the graphs, Keepa is working! ✅
+
+You're ready to use it!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 3: UNDERSTANDING KEEPA GRAPHS (10 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+Keepa shows you 3 main things:
+
+1. ORANGE LINE = Amazon Price History
+2. GREEN LINE = Sales Rank (BSR) History  
+3. BLUE LINE = Buy Box Price History
+
+
+Let me explain each one:
+
+
+ORANGE LINE - AMAZON PRICE
+---------------------------
+
+What it shows:
+   Price of the product over time
+
+How to read it:
+
+   HORIZONTAL LINE (Flat):
+      ────────────────────
+      Price is STABLE
+      ✅ GOOD! Predictable profit
+      Example: £15 → £15 → £15 (stable)
+
+   RISING LINE (Going Up):
+      ────────────────
+             /
+            /
+           /
+      Price INCREASING
+      ✅ GOOD! Demand growing
+      Example: £12 → £14 → £16 (rising)
+
+   FALLING LINE (Going Down):
+           \
+            \
+             \
+      ────────────────
+      Price CRASHING
+      ❌ BAD! Product dying
+      Example: £20 → £15 → £10 (crashing)
+      DON'T BUY!
+
+   VOLATILE (Up and Down):
+         /\    /\
+        /  \  /  \
+       /    \/    \
+      Unstable market
+      ⚠️ RISKY! Unpredictable
+      Example: £15 → £25 → £12 → £18
+
+
+GREEN LINE - SALES RANK (BSR)
+------------------------------
+
+What it shows:
+   How well product is selling
+   Lower rank = More sales
+   Rank drops when product sells!
+
+IMPORTANT: Lower is BETTER!
+   Rank 1,000 = Selling LOTS
+   Rank 100,000 = Selling SLOW
+
+How to read it:
+
+   FREQUENT DIPS (Drops Down Often):
+      ▁▁▁▁▁    ▁▁▁    ▁▁▁    ▁▁▁
+      Product selling REGULARLY
+      ✅ EXCELLENT! Sells multiple times per week
+      Example: Rank drops to 5,000 many times
+
+   SOME DIPS (Drops Sometimes):
+      ▁▁▁▁▁         ▁▁▁         ▁▁▁
+      Product selling OCCASIONALLY  
+      ✅ GOOD! Sells few times per month
+      Example: Rank drops to 20,000 occasionally
+
+   FLAT HIGH (Stays High):
+      ────────────────────────────
+      Product NOT selling
+      ❌ BAD! Nobody buying
+      Example: Rank stays at 200,000
+      DON'T BUY!
+
+   RISING (Getting Worse):
+                          ─────────
+                      ───
+                  ───
+      Sales DECLINING
+      ❌ BAD! Product dying
+      Example: Rank was 30,000, now 150,000
+
+
+BLUE LINE - BUY BOX PRICE
+--------------------------
+
+What it shows:
+   Price of "Buy Box" (main buy button)
+   Usually same as Amazon price
+
+Look for:
+   ✅ Matches orange line = Stable
+   ⚠️ Different from orange = Multiple sellers changing price
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 4: KEEPA EXAMPLES - GOOD VS BAD PRODUCTS
+═══════════════════════════════════════════════════════════════════════════════
+
+EXAMPLE 1: PERFECT PRODUCT ✅✅✅
+--------------------------------
+
+ORANGE LINE (Price):
+   ────────────────────────
+   Flat at £15 for 6 months
+
+GREEN LINE (Sales Rank):
+   ▁▁▁  ▁▁▁  ▁▁▁  ▁▁▁  ▁▁▁
+   Dips to 8,000 frequently
+
+INTERPRETATION:
+   ✅ Price stable at £15
+   ✅ Sells multiple times per week
+   ✅ Rank 8,000 = EXCELLENT sales
+   ✅ Consistent demand
+
+DECISION: BUY THIS! 🎯
+   This is a WINNER product!
+
+
+EXAMPLE 2: DYING PRODUCT ❌❌❌
+-------------------------------
+
+ORANGE LINE (Price):
+        \
+         \
+          \
+   ────────────
+   Was £20, now £12, trending down
+
+GREEN LINE (Sales Rank):
+                    ─────────
+                ────
+            ────
+   Getting worse (higher rank)
+
+INTERPRETATION:
+   ❌ Price crashing (£20 → £12)
+   ❌ Sales slowing (rank rising)
+   ❌ Product dying
+   ❌ Competition price war
+
+DECISION: SKIP! 🚫
+   Don't touch this!
+
+
+EXAMPLE 3: SEASONAL PRODUCT ⚠️
+-------------------------------
+
+ORANGE LINE (Price):
+       /\            /\
+      /  \          /  \
+     /    \________/    \____
+   Spikes Nov-Dec, drops Jan-May
+
+GREEN LINE (Sales Rank):
+   ▁▁▁▁▁     _______    ▁▁▁▁▁
+   Nov-Dec              Nov-Dec
+   Good rank in winter, terrible in summer
+
+INTERPRETATION:
+   ⚠️ Seasonal product (winter only)
+   ✅ Sells GREAT Nov-Dec
+   ❌ Doesn't sell Jan-Oct
+   ⚠️ Timing matters!
+
+DECISION: ONLY if current season matches!
+   If it's November → BUY
+   If it's March → SKIP
+
+
+EXAMPLE 4: VOLATILE PRODUCT ⚠️
+-------------------------------
+
+ORANGE LINE (Price):
+     /\   /\    /\
+    /  \ /  \  /  \
+   /    \/    \/    \
+   Constantly changing
+
+GREEN LINE (Sales Rank):
+   Erratic, no pattern
+
+INTERPRETATION:
+   ⚠️ Unstable market
+   ⚠️ Price wars
+   ⚠️ Unpredictable
+   ⚠️ High risk
+
+DECISION: SKIP
+   Too unpredictable!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 5: USING KEEPA IN YOUR WORKFLOW
+═══════════════════════════════════════════════════════════════════════════════
+
+FOR EACH PRODUCT YOU'RE RESEARCHING:
+
+
+STEP 1: Check SellerAmp First
+------------------------------
+
+1. SellerAmp shows instant profitability
+
+2. If profitable, continue to Keepa
+
+3. If not profitable, skip (no need for Keepa)
+
+
+STEP 2: Scroll to Keepa Graphs
+-------------------------------
+
+1. On the Amazon product page
+
+2. Scroll down past product description
+
+3. Find Keepa graphs (big chart)
+
+
+STEP 3: Select Time Range
+--------------------------
+
+Above the graph, click time range:
+
+• [1 month] - Too short
+• [3 months] - ✅ GOOD for most products
+• [6 months] - ✅ GOOD for seasonal check
+• [1 year] - Best for trends
+• [All] - See entire history
+
+Recommendation: Use "3 months" first
+
+
+STEP 4: Analyze Price (Orange Line)
+------------------------------------
+
+Ask yourself:
+
+Q: Is price stable?
+   ✅ Yes → Good!
+   ❌ No, falling → SKIP
+
+Q: Has price dropped >20% recently?
+   ✅ No → Good!
+   ❌ Yes → SKIP (dying product)
+
+Q: Is price rising?
+   ✅ Yes → Good! (demand growing)
+
+
+STEP 5: Analyze Sales Rank (Green Line)
+----------------------------------------
+
+Ask yourself:
+
+Q: Does rank dip frequently?
+   ✅ Yes → Good! (selling regularly)
+   ❌ No → Bad (not selling)
+
+Q: How low do the dips go?
+   ✅ Under 20,000 → EXCELLENT
+   ✅ 20,000-50,000 → GOOD
+   ⚠️ 50,000-100,000 → MODERATE
+   ❌ Over 100,000 → SKIP
+
+Q: Is rank getting better (lower) or worse (higher)?
+   ✅ Getting better → Great! (sales increasing)
+   ❌ Getting worse → Bad (sales declining)
+
+
+STEP 6: Make Decision
+----------------------
+
+Combine SellerAmp + Keepa:
+
+✅ BUY IF:
+   • SellerAmp shows profit ✅
+   • No IP alerts ✅
+   • Keepa price stable ✅
+   • Keepa rank dips frequently ✅
+
+❌ SKIP IF:
+   • SellerAmp shows loss ❌
+   • OR IP alert ❌
+   • OR Keepa price crashing ❌
+   • OR Keepa rank always high ❌
+
+
+STEP 7: Record in Excel
+------------------------
+
+In your Excel, add notes:
+
+Example:
+   "Keepa: Stable £15, BSR dips to 8K, GOOD"
+   
+   or
+   
+   "Keepa: Price falling, BSR rising, SKIP"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 6: KEEPA SPECIAL FEATURES
+═══════════════════════════════════════════════════════════════════════════════
+
+FEATURE 1: Hover for Exact Data
+--------------------------------
+
+Move your mouse over the graph:
+
+A vertical line appears showing exact values!
+
+You'll see popup with:
+   • Exact date
+   • Exact price that day
+   • Exact rank that day
+
+Use this to:
+   → See price on specific dates
+   → Check sales rank spikes
+   → Investigate unusual patterns
+
+
+FEATURE 2: Compare to Lowest Price
+-----------------------------------
+
+Keepa shows:
+   • Lowest price ever
+   • Highest price ever
+   • Average price
+
+Use this to:
+   → See if current price is good
+   → Avoid buying at peak prices
+   → Find entry opportunities
+
+
+FEATURE 3: Track Multiple Sellers
+----------------------------------
+
+If you scroll through Keepa graphs, you'll see:
+   • Amazon price (orange)
+   • New offers (blue)
+   • Used offers (if any)
+
+This shows:
+   → How many sellers over time
+   → If competition is increasing/decreasing
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 7: REAL EXAMPLE - LET'S ANALYZE ONE TOGETHER
+═══════════════════════════════════════════════════════════════════════════════
+
+Product: Kitchen Timer Digital
+Your Cost: £4.50
+Amazon Price: £12.99 (from SellerAmp)
+
+
+STEP 1: Look at Keepa Price (Orange Line)
+------------------------------------------
+
+What I see:
+   ────────────────────────
+   Flat line at £12.99 for 90 days
+
+ANALYSIS:
+   ✅ Price is STABLE
+   ✅ No crashes
+   ✅ Predictable
+
+
+STEP 2: Look at Sales Rank (Green Line)
+----------------------------------------
+
+What I see:
+   ▁▁▁  ▁▁▁  ▁▁▁  ▁▁▁  ▁▁▁
+   Dips from 50,000 down to 8,000 multiple times
+
+ANALYSIS:
+   ✅ Dips to 8,000 = Selling FAST
+   ✅ Happens frequently = Regular sales
+   ✅ EXCELLENT sales velocity
+
+
+STEP 3: Hover Over Dips
+------------------------
+
+I hover over each dip:
+   • March 15: Rank 8,500
+   • March 22: Rank 9,200
+   • March 29: Rank 8,100
+   • April 5: Rank 7,800
+
+ANALYSIS:
+   ✅ Selling about once per week
+   ✅ Consistent pattern
+   ✅ Rank improving (getting lower)
+
+
+STEP 4: Check 6-Month View
+---------------------------
+
+Click "6 months" to see longer trend:
+
+   Price: Stable at £12.99 for 6 months
+   Rank: Consistent dips, slightly improving
+
+ANALYSIS:
+   ✅ Long-term stability
+   ✅ Not a fad
+   ✅ Evergreen product
+
+
+STEP 5: Final Decision
+-----------------------
+
+SellerAmp said:
+   • ROI: 67% ✅
+   • No IP alerts ✅
+   • Not restricted ✅
+   • BSR: 8,500 ✅
+
+Keepa says:
+   • Price stable ✅
+   • Sells regularly ✅
+   • Long-term winner ✅
+
+DECISION: ✅ BUY THIS PRODUCT!
+
+Order quantity: 20 units (high confidence!)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 8: KEEPA RED FLAGS - WHEN TO SKIP
+═══════════════════════════════════════════════════════════════════════════════
+
+🚩 RED FLAG 1: Price Dropped >20% in Last 30 Days
+-------------------------------------------------
+
+Example:
+   Was: £20
+   Now: £15
+   Drop: 25%
+
+What it means:
+   • Product dying
+   • Competition undercutting
+   • Price war starting
+
+ACTION: SKIP
+
+
+🚩 RED FLAG 2: Rank Rising (Getting Worse)
+------------------------------------------
+
+Example:
+   90 days ago: Rank 20,000
+   60 days ago: Rank 35,000
+   30 days ago: Rank 60,000
+   Now: Rank 85,000
+
+What it means:
+   • Sales declining
+   • Product losing popularity
+   • Dying product
+
+ACTION: SKIP
+
+
+🚩 RED FLAG 3: No Rank Dips in 90 Days
+--------------------------------------
+
+Example:
+   ────────────────────────
+   Flat line at 120,000 for 3 months
+   No dips at all
+
+What it means:
+   • Product not selling
+   • Zero demand
+   • Will sit in warehouse
+
+ACTION: SKIP
+
+
+🚩 RED FLAG 4: Massive Price Spikes
+-----------------------------------
+
+Example:
+      /\
+     /  \    /\
+    /    \  /  \
+   /      \/    \
+
+What it means:
+   • Unstable market
+   • Can't predict profit
+   • High risk
+
+ACTION: SKIP
+
+
+🚩 RED FLAG 5: Amazon Just Started Selling
+------------------------------------------
+
+Example:
+   You see orange line + NEW yellow line appears
+   Yellow line = Amazon as seller
+
+What it means:
+   • Amazon entered market
+   • Will dominate Buy Box
+   • Hard to compete
+
+ACTION: SKIP or very cautious
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 9: KEEPA CHEAT SHEET
+═══════════════════════════════════════════════════════════════════════════════
+
+QUICK REFERENCE:
+
+
+PRICE (ORANGE LINE):
+────────────────────
+
+✅ GOOD:
+   • Flat/stable
+   • Rising slowly
+   • £10-20 range
+
+❌ BAD:
+   • Falling >20%
+   • Highly volatile
+   • Recent crash
+
+
+SALES RANK (GREEN LINE):
+────────────────────────
+
+✅ GOOD:
+   • Dips frequently
+   • Dips below 50,000
+   • Improving over time
+
+❌ BAD:
+   • No dips
+   • Always above 100,000
+   • Getting worse
+
+
+TIME TO CHECK:
+──────────────
+
+• 1 minute per product
+• Look at 3-month view
+• Check for red flags
+• Make decision
+
+
+DECISION MATRIX:
+────────────────
+
+Stable Price + Frequent Dips = ✅ BUY
+Stable Price + No Dips = ❌ SKIP
+Falling Price + Any Rank = ❌ SKIP
+Rising Price + Frequent Dips = ✅ BUY
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+You're now a Keepa expert! 🎓
+
+It's that simple! 
+
+Next: See START_NOW_ACTION_GUIDE.txt to put it all together!
+
+═══════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,724 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║              SELLERAMP - COMPLETE BEGINNER'S GUIDE                            ║
+║                   Step-by-Step Instructions                                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 1: SIGNING UP FOR SELLERAMP (10 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Go to SellerAmp Website
+--------------------------------
+
+1. Open your browser (Chrome)
+2. Go to: https://selleramp.com
+3. You'll see the homepage
+
+
+STEP 2: Start Free Trial
+-------------------------
+
+1. Look for button that says:
+   "START FREE TRIAL" or "TRY FOR FREE" or "GET STARTED"
+
+2. Click it
+
+3. You'll see pricing plans:
+   • Solo: £25/month
+   • Pro: £50/month
+   
+4. Choose "Solo" (it's enough for beginners)
+
+5. Click "Start Free Trial" on Solo plan
+
+
+STEP 3: Create Account
+-----------------------
+
+Fill in the form:
+
+1. Email: your.email@gmail.com
+2. Password: (create strong password)
+3. Name: Your Name
+4. Country: United Kingdom
+
+5. Payment Method:
+   → Enter credit/debit card
+   → You WON'T be charged during trial (7-14 days)
+   → You can cancel before trial ends
+
+6. Click "Create Account" or "Sign Up"
+
+
+STEP 4: Verify Email
+---------------------
+
+1. Check your email inbox
+
+2. Look for email from SellerAmp
+
+3. Click verification link in email
+
+4. This confirms your account
+
+
+STEP 5: Welcome Screen
+-----------------------
+
+After verification, you'll see welcome screen:
+
+1. "Welcome to SellerAmp SAS!"
+
+2. Click "Get Started" or "Install Extension"
+
+3. This takes you to Chrome Web Store
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 2: INSTALLING SELLERAMP CHROME EXTENSION (5 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+STEP 1: Go to Chrome Web Store
+-------------------------------
+
+Either:
+   A) Click link from SellerAmp welcome screen
+   
+   OR
+   
+   B) Manually:
+      1. Go to: chrome.google.com/webstore
+      2. Search: "SellerAmp SAS"
+      3. Click on "SellerAmp SAS" (official extension)
+
+
+STEP 2: Install Extension
+--------------------------
+
+1. You'll see extension page with:
+   • SellerAmp SAS icon
+   • "Add to Chrome" button
+   • Description
+   • Reviews
+
+2. Click "Add to Chrome" button
+
+3. Popup appears: "Add SellerAmp SAS?"
+   → Click "Add extension"
+
+4. Extension installs (5-10 seconds)
+
+5. You'll see confirmation:
+   "SellerAmp SAS has been added to Chrome"
+
+
+STEP 3: Pin Extension (Important!)
+-----------------------------------
+
+1. Look at top-right of Chrome browser
+
+2. Click the puzzle piece icon (Extensions)
+
+3. Find "SellerAmp SAS" in the list
+
+4. Click the pin icon next to it
+   → This keeps it visible
+
+5. Now you'll see SellerAmp icon in toolbar
+
+
+STEP 4: Log Into Extension
+---------------------------
+
+1. Click the SellerAmp icon in toolbar
+
+2. Login popup appears
+
+3. Enter:
+   • Email: (your SellerAmp email)
+   • Password: (your SellerAmp password)
+
+4. Click "Login"
+
+5. You'll see: "Logged in successfully"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 3: CONNECTING TO AMAZON SELLER CENTRAL (5 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+IMPORTANT: SellerAmp needs Seller Central to check restrictions!
+
+
+STEP 1: Open Seller Central
+----------------------------
+
+1. Go to: sellercentral.amazon.co.uk
+
+2. Log in with your Amazon seller account
+   → If you don't have one yet, that's okay, skip this for now
+
+3. You should be on Seller Central dashboard
+
+
+STEP 2: SellerAmp Auto-Connects
+--------------------------------
+
+Once you're logged into Seller Central:
+
+1. SellerAmp automatically detects it
+
+2. You'll see green checkmark in SellerAmp settings
+   "Connected to Seller Central ✓"
+
+3. Now SellerAmp can check if you're restricted!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 4: USING SELLERAMP - YOUR FIRST PRODUCT CHECK (5 MINUTES)
+═══════════════════════════════════════════════════════════════════════════════
+
+Let's test it on a real product!
+
+
+STEP 1: Go to Any Amazon Product
+---------------------------------
+
+1. Open new tab
+
+2. Go to: amazon.co.uk
+
+3. Search for any product (example: "kitchen timer")
+
+4. Click on any product
+
+
+STEP 2: SellerAmp Overlay Appears
+----------------------------------
+
+You'll see a box appear on the right side of the page!
+
+This is the SellerAmp overlay - it shows automatically!
+
+The overlay has sections:
+
+
+┌─────────────────────────────────────┐
+│     SELLERAMP SAS OVERLAY           │
+├─────────────────────────────────────┤
+│                                     │
+│ Sell Price: £12.99                  │
+│ Cost: [Enter your cost]             │
+│ Shipping: £0.00                     │
+│                                     │
+├─────────────────────────────────────┤
+│                                     │
+│ Amazon Fee: £1.95 (15%)             │
+│ FBA Fee: £3.50                      │
+│ Net Profit: [Calculates]            │
+│ ROI: [Calculates]                   │
+│ Margin: [Calculates]                │
+│                                     │
+├─────────────────────────────────────┤
+│                                     │
+│ ✅ No IP Complaints                 │
+│ ✅ Not Restricted                   │
+│                                     │
+├─────────────────────────────────────┤
+│                                     │
+│ BSR: 8,500 in Kitchen               │
+│ Sellers: 23                         │
+│                                     │
+└─────────────────────────────────────┘
+
+
+STEP 3: Enter Your Cost
+------------------------
+
+1. Find "Cost:" field in overlay
+
+2. Click on it
+
+3. Type your warehouse cost
+   Example: 4.50 (for £4.50)
+
+4. Press Enter
+
+5. SellerAmp INSTANTLY calculates:
+   • Net Profit per unit
+   • ROI %
+   • Margin %
+
+
+STEP 4: Read the Results
+-------------------------
+
+Look at what SellerAmp shows you:
+
+
+PROFIT SECTION (Top):
+---------------------
+
+Sell Price: £12.99
+   → This is current Amazon Buy Box price
+   → What you'd sell it for
+
+Cost: £4.50
+   → What YOU entered (your warehouse cost)
+
+Amazon Fee: £1.95
+   → 15% referral fee (Amazon takes this)
+
+FBA Fee: £3.50
+   → Fulfillment fee (Amazon packs & ships)
+
+Net Profit: £3.04
+   → YOUR profit per unit after ALL fees
+   → This is what you make!
+
+ROI: 67.6%
+   → Return on investment
+   → You invest £4.50, make £3.04 profit
+   → That's 67% return!
+
+COLOR CODING:
+   🟢 Green = Profitable (ROI >20%)
+   🟡 Yellow = Marginal (ROI 10-20%)
+   🔴 Red = Losing money (ROI <10%)
+
+
+ALERTS SECTION (Middle):
+------------------------
+
+✅ No IP Complaints
+   → SAFE - No trademark issues
+   → You can sell this brand
+   → If this is ❌ RED → DON'T BUY!
+
+✅ Not Restricted
+   → SAFE - You have permission to sell
+   → Not gated in this category
+   → If this is ❌ RED → DON'T BUY!
+
+⚠️ High Competition
+   → WARNING - Many sellers
+   → Might be harder to sell
+   → Not a dealbreaker, just note it
+
+
+STATS SECTION (Bottom):
+-----------------------
+
+BSR: 8,500 in Kitchen & Dining
+   → Best Seller Rank
+   → Lower is better
+   → 8,500 = Sells well!
+   → Under 50,000 = Good
+   → Under 20,000 = Excellent
+   → Over 100,000 = Slow sales
+
+Sellers: 23
+   → How many people selling
+   → Under 30 = Good
+   → Under 15 = Excellent
+   → Over 50 = Too competitive
+
+
+STEP 5: Make Your Decision
+---------------------------
+
+Based on SellerAmp data, decide:
+
+
+✅ BUY IF:
+   • Green profit (ROI >30%)
+   • No IP alerts
+   • Not restricted
+   • BSR <100,000
+   • Sellers <30
+
+⚠️ TEST IF:
+   • Yellow profit (ROI 20-30%)
+   • BSR 50,000-100,000
+   • Sellers 30-50
+
+❌ SKIP IF:
+   • Red profit (ROI <20%)
+   • IP alert ❌
+   • Restricted ❌
+   • BSR >100,000
+   • Sellers >50
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 5: REAL EXAMPLE - LET'S DO ONE TOGETHER
+═══════════════════════════════════════════════════════════════════════════════
+
+Let me walk you through a REAL example:
+
+
+STEP 1: Product from Your Warehouse
+------------------------------------
+
+Let's say you have this in your Excel:
+
+Product: Kitchen Timer Digital Magnetic
+Warehouse Cost (Pack Price): £4.50
+
+
+STEP 2: Search on Amazon
+-------------------------
+
+1. Go to amazon.co.uk
+
+2. Search: "kitchen timer digital magnetic"
+
+3. Click on a matching product
+
+4. You land on product page
+
+
+STEP 3: SellerAmp Shows Data
+-----------------------------
+
+SellerAmp overlay appears showing:
+
+Sell Price: £12.99
+Cost: [empty]
+Amazon Fee: £1.95
+FBA Fee: £3.50
+
+
+STEP 4: Enter Your Cost
+------------------------
+
+1. Click "Cost" field
+
+2. Type: 4.50
+
+3. Press Enter
+
+4. SellerAmp instantly updates:
+
+Net Profit: £3.04
+ROI: 67.6% 🟢 GREEN
+Margin: 23.4%
+
+
+STEP 5: Check Alerts
+---------------------
+
+✅ No IP Complaints
+✅ Not Restricted
+
+GOOD! Safe to sell!
+
+
+STEP 6: Check Stats
+--------------------
+
+BSR: 8,500 in Kitchen
+Sellers: 23
+
+GOOD! Sells well, not too competitive!
+
+
+STEP 7: Decision
+-----------------
+
+✅ BUY THIS PRODUCT!
+
+Why?
+   • ROI 67% (Excellent!)
+   • No alerts (Safe!)
+   • BSR 8,500 (Sells fast!)
+   • 23 sellers (Manageable!)
+
+RECORD IN EXCEL:
+   Decision: ✅ BUY
+   ROI: 67%
+   BSR: 8,500
+   Notes: Excellent product!
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 6: UNDERSTANDING EACH SELLERAMP FEATURE
+═══════════════════════════════════════════════════════════════════════════════
+
+FEATURE 1: IP ALERTS (Most Important!)
+---------------------------------------
+
+What it means:
+   "IP" = Intellectual Property
+   = Trademarks, brands, copyrights
+
+Why it matters:
+   Selling trademarked products without permission = Account SUSPENDED
+
+What SellerAmp shows:
+
+✅ "No IP Complaints"
+   → SAFE! You can sell this
+   → Brand doesn't restrict sellers
+   → Go ahead!
+
+❌ "IP Alert" or "Brand Gated"
+   → DANGER! Don't sell this!
+   → Brand has trademark protection
+   → Amazon will suspend your account if you try
+
+⚠️ "No Data"
+   → Unknown
+   → Be cautious
+   → Do extra research
+
+
+ACTION:
+   If ❌ IP Alert → SKIP IMMEDIATELY
+   Never risk your account!
+
+
+FEATURE 2: RESTRICTIONS
+-----------------------
+
+What it means:
+   Some categories need Amazon approval ("gated")
+   Examples: Baby, Beauty, Groceries
+
+Why it matters:
+   Can't list product without approval = stuck with inventory
+
+What SellerAmp shows:
+
+✅ "Not Restricted"
+   → SAFE! You can list this
+   → Category is open to you
+   → Go ahead!
+
+❌ "Restricted - Approval Needed"
+   → Can't sell without approval
+   → Need to apply to Amazon
+   → SKIP unless you have approval
+
+⚠️ "Test Buy Recommended"
+   → Uncertain
+   → Try adding in Seller Central
+   → Check manually
+
+
+ACTION:
+   If ❌ Restricted → SKIP
+   Unless you have category approval
+
+
+FEATURE 3: PROFIT CALCULATOR
+-----------------------------
+
+This is the CORE feature!
+
+What it calculates:
+
+1. Sell Price
+   → Current Buy Box price
+   → What you'll sell for
+
+2. Your Cost
+   → What YOU enter
+   → Your warehouse price
+
+3. Amazon Fee (15%)
+   → Amazon takes 15% of sell price
+   → Called "referral fee"
+
+4. FBA Fee
+   → Amazon packs & ships
+   → Varies by size/weight
+   → Usually £2.50-5.00
+
+5. Net Profit
+   → Sell Price - Cost - Fees
+   → This is YOUR money!
+
+6. ROI
+   → Net Profit / Cost
+   → Shows % return
+   → 50% ROI = You double your money (+50%)
+
+7. Margin
+   → Net Profit / Sell Price
+   → Shows profit as % of sale
+
+
+EXAMPLE CALCULATION:
+
+Sell Price: £12.99
+Cost: £4.50
+Amazon Fee: £12.99 × 0.15 = £1.95
+FBA Fee: £3.50
+Total Fees: £1.95 + £3.50 = £5.45
+
+Net Profit: £12.99 - £4.50 - £5.45 = £3.04
+ROI: £3.04 / £4.50 = 67.6%
+Margin: £3.04 / £12.99 = 23.4%
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 7: SELLERAMP WORKFLOW FOR YOUR 100 PRODUCTS
+═══════════════════════════════════════════════════════════════════════════════
+
+Now that you know HOW to use it, here's your workflow:
+
+
+FOR EACH PRODUCT IN YOUR TOP 100:
+
+1. Copy product name from Excel
+
+2. Search on Amazon.co.uk
+
+3. Find matching product, click it
+
+4. SellerAmp overlay appears automatically
+
+5. Enter your warehouse cost in "Cost" field
+
+6. READ THE DATA:
+   
+   CHECK 1: IP Alert?
+      ✅ No → Continue
+      ❌ Yes → SKIP, mark in Excel
+   
+   CHECK 2: Restricted?
+      ✅ No → Continue
+      ❌ Yes → SKIP, mark in Excel
+   
+   CHECK 3: ROI?
+      🟢 Green (>30%) → Good!
+      🟡 Yellow (20-30%) → Marginal
+      🔴 Red (<20%) → SKIP
+   
+   CHECK 4: BSR?
+      <20,000 → Excellent
+      20,000-50,000 → Good
+      50,000-100,000 → Moderate
+      >100,000 → SKIP
+   
+   CHECK 5: Sellers?
+      <15 → Excellent
+      15-30 → Good
+      30-50 → Moderate
+      >50 → SKIP
+
+7. RECORD IN EXCEL:
+   • ASIN
+   • Amazon Price
+   • BSR
+   • Sellers
+   • ROI
+   • Decision (BUY/TEST/SKIP)
+
+8. Move to next product
+
+REPEAT 100 times!
+
+
+TIME: 2-3 minutes per product = 4-6 hours total
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PART 8: TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════════════════════
+
+PROBLEM: SellerAmp overlay doesn't appear
+------------------------------------------
+
+SOLUTION:
+   1. Refresh the Amazon page (F5)
+   2. Check if extension is installed (puzzle icon)
+   3. Check if you're logged in (click SellerAmp icon)
+   4. Try different Amazon product page
+   5. Restart Chrome
+
+
+PROBLEM: Can't log into SellerAmp
+----------------------------------
+
+SOLUTION:
+   1. Check email/password are correct
+   2. Check email for verification link
+   3. Reset password if needed
+   4. Contact SellerAmp support
+
+
+PROBLEM: Shows "Not Connected to Seller Central"
+-------------------------------------------------
+
+SOLUTION:
+   1. Open Seller Central in another tab
+   2. Log in
+   3. Refresh Amazon product page
+   4. SellerAmp should detect connection
+
+
+PROBLEM: Cost field won't accept my number
+-------------------------------------------
+
+SOLUTION:
+   1. Use decimal point (4.50, not 4,50)
+   2. Don't include £ symbol
+   3. Just type number: 4.50
+
+
+PROBLEM: "No Data Available"
+-----------------------------
+
+SOLUTION:
+   1. Product might be new
+   2. SellerAmp hasn't indexed it yet
+   3. Do manual check
+   4. Consider SKIP if uncertain
+
+
+═══════════════════════════════════════════════════════════════════════════════
+QUICK REFERENCE CARD
+═══════════════════════════════════════════════════════════════════════════════
+
+SELLERAMP CHEAT SHEET:
+
+✅ GREEN SIGNALS (Good to Buy):
+   • No IP Complaints ✅
+   • Not Restricted ✅
+   • ROI 30%+ (green)
+   • BSR <50,000
+   • Sellers <30
+
+❌ RED SIGNALS (Skip Immediately):
+   • IP Alert ❌
+   • Restricted ❌
+   • ROI <20% (red)
+   • BSR >100,000
+   • Sellers >50
+
+📊 WHAT TO RECORD:
+   • ASIN
+   • Amazon Price (from SellerAmp)
+   • Net Profit (from SellerAmp)
+   • ROI (from SellerAmp)
+   • BSR (from SellerAmp)
+   • Sellers (from SellerAmp)
+   • Alerts (IP/Restriction status)
+
+⏱️ TIME PER PRODUCT:
+   2-3 minutes with SellerAmp
+   (vs 10-12 minutes manual!)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+You're now ready to use SellerAmp! 🚀
+
+Next: See KEEPA_GUIDE.txt for Keepa instructions!
+
+═══════════════════════════════════════════════════════════════════════════════
